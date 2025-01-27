@@ -1,4 +1,21 @@
-
+/****************************************************************
+* enhaced Kenwood TS-700 - Added 146 and 147 band - removed all
+* het xtals, new generator using Arduino and SI5351
+*
+* all libraries have their own copyrights, thanks to the authors
+* all efforts to do the upgrade are copyright of LU9DA, 2025
+*
+* if you use any library, see the author's instructions
+*
+* for my work, you have to add reference to my github on you
+* program
+*
+* if you use any schematics from this work, you have to reference 
+* my github
+*
+* you can ask for explanations en Facebook page Tecnica-LU
+* or in lu9da (at) lu9da dot org
+*****************************************************************/
 /*****************************************************************
 * MicroLCD library
 * For more information, please visit http://arduinodev.com
